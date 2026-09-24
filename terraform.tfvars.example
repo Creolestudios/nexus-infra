@@ -1,0 +1,5 @@
+aws_region     = "us-east-1"
+project        = "nexus-platform"
+aws_account_id = "123456789012"
+alert_email    = "devops@nexustech.io"
+db_password    = "CHANGE_ME_BEFORE_APPLY"
